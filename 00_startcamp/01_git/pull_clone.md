@@ -5,4 +5,4 @@
 4. 2번 유저는 업데이트된 원격 저장소에서 변경사항만을 다운(pull)
 - 복제 폴더에서 git clone https://github.com/ygujg/TIL
 - 복제 후 기존 폴더에서 변경 사항 commit하고 push
-- 복제 폴더에서 git pull!
+- 복제 폴더에서 git pull
